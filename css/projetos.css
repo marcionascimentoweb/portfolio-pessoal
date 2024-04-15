@@ -1,0 +1,81 @@
+
+.projetos{
+        padding: 10px;
+}
+
+.projetos h1{
+    margin-top: 150px;
+}
+
+.cards_projetos{
+    padding: 10px;
+}
+
+.card_ind{
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.card_titulo{
+    color: var( --primaria-normal);
+    text-align: center;
+    font-weight: bold;
+    margin-top: -10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card_descricao{
+    color: var(--primaria-dark);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 13px;
+}
+
+.card_tecnologias{
+    color: var(--primaria-dark);
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 13px;
+}
+
+.card_botao{
+    background-color: var(--primaria-dark);
+    color: white;
+    font-weight: bold;
+}
+
+.card_botao:hover{
+    background-color: var(--primaria-light-activer);
+}
+
+
+
+
+/*RESPONSIVOS*/
+@media (max-width: 576px) { 
+    #projetos .container-fluid{
+        height: 100%;
+    }
+    #projetos .titulo{
+        margin-top: 250px;
+    }
+  }
+
+
+  @media (min-width: 576px) and (max-width:768px){ 
+      #projetos .container-fluid{
+        height: 100%;
+    }
+    #projetos .titulo{
+        margin-top: 250px;
+    }
+  }
+
+
+  @media (min-width: 768px) and (max-width:992px) { 
+    #projetos .container-fluid{
+        height: 100%;
+    }
+    
+  }

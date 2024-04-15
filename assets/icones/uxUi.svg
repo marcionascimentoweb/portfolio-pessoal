@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.7732mm" height="6.7732mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 61.96 61.96"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="736" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Poppins">
+		<font-face-src>
+			<font-face-name name="Poppins Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="I" horiz-adv-x="295" d="M233.011 702.015l0 -702.015 -171.019 0 0 702.015 171.019 0z"/>
+   <glyph unicode="U" horiz-adv-x="704" d="M229.984 702.015l0 -420.025c0,-41.9754 10.347,-74.3268 30.9958,-97.0089 20.694,-22.6369 51.0121,-33.978 90.9995,-33.978 40.0325,0 70.6669,11.341 92.0387,33.978 21.3266,22.6821 31.9899,55.0334 31.9899,97.0089l0 420.025 170.974 0 0 -419.031c0,-62.6694 -13.3291,-115.67 -39.9873,-159.001 -26.6582,-43.3309 -62.4887,-75.9986 -107.491,-98.0029 -45.0027,-21.9592 -95.1563,-32.9839 -150.506,-32.9839 -55.3497,0 -104.826,10.844 -148.518,32.4869 -43.6472,21.6881 -78.1674,54.3557 -103.47,98.0029 -25.3479,43.6924 -37.9993,96.8281 -37.9993,159.498l0 419.031 170.974 0z"/>
+   <glyph unicode="X" horiz-adv-x="714" d="M492.003 0l-143.006 214.983 -126.017 -214.983 -193.973 0 225.014 356.994 -230.029 345.021 198.988 0 141.018 -212.001 123.983 212.001 194.018 0 -222.98 -354.012 231.972 -348.003 -198.988 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Poppins";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FF9800}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:bold;font-size:20.25px;font-family:'Poppins'}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="objectBoundingBox" cx="34.0002%" cy="6.99965%" r="37.9998%" fx="34.0002%" fy="6.99965%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BF7200"/>
+   <stop offset="0.811765" style="stop-opacity:1; stop-color:#DF8500"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF9800"/>
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M30.98 0c17.11,0 30.98,13.87 30.98,30.98 0,17.11 -13.87,30.98 -30.98,30.98 -17.11,0 -30.98,-13.87 -30.98,-30.98 0,-17.11 13.87,-30.98 30.98,-30.98zm0 3.91c14.95,0 27.06,12.12 27.06,27.06 0,14.95 -12.12,27.06 -27.06,27.06 -14.95,0 -27.06,-12.12 -27.06,-27.06 0,-14.95 12.12,-27.06 27.06,-27.06z"/>
+  <text x="16.25" y="26.69"  class="fil1 fnt0">UX</text>
+  <text x="20.5" y="49.34"  class="fil1 fnt0">UI</text>
+ </g>
+</svg>

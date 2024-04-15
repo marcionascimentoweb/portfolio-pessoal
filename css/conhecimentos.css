@@ -1,0 +1,109 @@
+
+.conhecimento_conteudo{
+    padding: 2px;
+}
+
+.conhecimento_conteudo h1{
+    margin-top: 100px;
+}
+
+.conhecimento_lados{
+    display: flex;
+    justify-content: space-around;
+}
+
+.conhecimento_lista{
+    padding: 20px;
+}
+
+.conhecimento_item{
+    width: 350px;
+    height: 80px;
+    border: solid 2px var(--secundaria-normal);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.conhecimento_item:hover{
+    border: solid 2px var(--secundaria-light-hover);
+    box-shadow: 0px 0px 15px var(--secundaria-normal);
+}
+
+.conhecimento_item_conteudo{
+    height: 80px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.conhecimento_icone{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    margin: 0 auto;
+    margin-left: 20px;
+}
+
+.conhecimento_item_titulo{
+    font-family: 'Poppins', sans-serif;
+    color: var(--secundaria-normal);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -5px;
+}
+
+.conhecimento_item_paragrafo{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 18px;
+}
+
+
+
+/*RESPONSIVOS*/
+/* CELULAR */
+@media (max-width: 576px) { 
+    #conhecimentos .container-fluid{
+        height: 100%;
+    }
+    #conhecimentos .titulo{
+        margin-top: 250px;
+    }
+    .conhecimento_lados{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+  }
+
+/*SMARTPHONE*/
+  @media (min-width: 576px) and (max-width:768px){ 
+    #conhecimentos .container-fluid{
+        height: 100%;
+    }
+    #conhecimentos .titulo{
+        margin-top: 250px;
+
+    }
+    .conhecimento_lados{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+  }
+
+/* Dispositivos médios (tablets com 768px)*/
+@media (min-width: 768px) and (max-width:992px) { 
+    
+   }
+  

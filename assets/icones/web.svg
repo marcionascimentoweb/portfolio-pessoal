@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.7732mm" height="6.7732mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 61.96 61.96"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="736" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Poppins">
+		<font-face-src>
+			<font-face-name name="Poppins Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="B" horiz-adv-x="659" d="M486.987 360.022c40.6651,-8.67522 73.3327,-28.8722 98.0029,-60.5006 24.6702,-31.6736 37.0052,-67.8655 37.0052,-108.531 0,-58.6481 -20.5133,-105.142 -61.4947,-139.481 -40.9814,-34.3394 -98.1836,-51.5091 -171.516,-51.5091l-326.993 0 0 702.015 316.013 0c71.3447,0 127.146,-16.3564 167.495,-49.024 40.3488,-32.6676 60.5006,-76.9926 60.5006,-132.975 0,-41.3429 -10.844,-75.6823 -32.4869,-103.018 -21.6881,-27.336 -50.5151,-46.313 -86.5263,-56.9763zm-253.976 57.9704l112.01 0c27.9686,0 49.4759,6.19013 64.4768,18.5252 15.0009,12.3351 22.5014,30.4988 22.5014,54.4912 0,23.9924 -7.50045,42.3369 -22.5014,54.9883 -15.0009,12.6514 -36.5082,19.0222 -64.4768,19.0222l-112.01 0 0 -147.027zm125.971 -280.002c28.6915,0 50.8314,6.50642 66.51,19.5192 15.6787,13.0128 23.4954,31.8091 23.4954,56.4793 0,24.6702 -8.13302,44.0087 -24.4894,58.0155 -16.3112,14.0069 -38.8126,21.0103 -67.5041,21.0103l-123.983 0 0 -155.024 125.971 0z"/>
+   <glyph unicode="E" horiz-adv-x="540" d="M233.011 565.019l0 -142.012 228.99 0 0 -132.026 -228.99 0 0 -153.985 258.992 0 0 -136.996 -430.011 0 0 702.015 430.011 0 0 -136.996 -258.992 0z"/>
+   <glyph unicode="W" horiz-adv-x="1052" d="M1028.01 702.015l-182.993 -702.015 -207.031 0 -112.01 462.001 -115.986 -462.001 -206.985 0 -178.023 702.015 182.993 0 101.03 -511.025 124.977 511.025 188.008 0 120.007 -511.025 101.979 511.025 184.032 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Poppins";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FF9800}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:bold;font-size:20.25px;font-family:'Poppins'}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="objectBoundingBox" cx="34.0002%" cy="6.99965%" r="37.9998%" fx="34.0002%" fy="6.99965%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BF7200"/>
+   <stop offset="0.811765" style="stop-opacity:1; stop-color:#DF8500"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF9800"/>
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M30.98 0c17.11,0 30.98,13.87 30.98,30.98 0,17.11 -13.87,30.98 -30.98,30.98 -17.11,0 -30.98,-13.87 -30.98,-30.98 0,-17.11 13.87,-30.98 30.98,-30.98zm0 3.91c14.95,0 27.06,12.12 27.06,27.06 0,14.95 -12.12,27.06 -27.06,27.06 -14.95,0 -27.06,-12.12 -27.06,-27.06 0,-14.95 12.12,-27.06 27.06,-27.06z"/>
+  <text x="8.3" y="38.09"  class="fil1 fnt0">WEB</text>
+ </g>
+</svg>

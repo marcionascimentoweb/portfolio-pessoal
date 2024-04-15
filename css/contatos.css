@@ -1,0 +1,178 @@
+
+.telaContato{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+    gap: 10px;
+}
+
+
+.dados{
+    width: 50%;
+    height: 550px;
+    padding: 20px;
+    border: 1px solid var(--secundaria-normal);
+    border-radius: 5px;
+        
+}
+
+.formulario{
+    width: 50%;
+    height: 550px;
+    padding: 10px 20px;
+    border: 1px solid var(--secundaria-normal);
+    border-radius: 5px;
+}
+
+.telefone, .email, .linkedin, .github, .instagram {
+    display: flex;
+    
+}
+
+.imgContato{
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+
+.dadosContato{
+    color: var(--secundaria-normal);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+.dadosContato p{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+
+
+.formNome{
+    font-size: 20px;
+    color: var(--secundaria-normal);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+input{
+    width: 100%;
+    height: 40px;
+    border-color: var(--secundaria-normal);
+    border: solid 1px var(--secundaria-normal);
+    background-color: var(--primaria-darker);
+    border-radius: 3px;
+    color: var(--secundaria-light-activer);
+    font-size: 16px;
+    font-weight: 300;
+    padding: 10px;
+}
+
+input::placeholder{
+    font-size: 16px;
+    color: var(--secundaria-dark);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+}
+
+.msg{
+    border-color: var(--secundaria-normal);
+    border: solid 1px var(--secundaria-normal);
+    background-color: var(--primaria-darker);
+    border-radius: 3px;
+    color: var(--secundaria-light-activer);
+    font-size: 16px;
+    font-weight: 300;
+    padding: 10px;
+}
+
+.bt_enviar{
+    width: 200px;
+    height: 40px;
+    background-color: var(--secundaria-normal);
+    cursor: pointer;
+    color: var(--secundaria-darker);
+    border-radius: 5px;
+    border: none;
+ }
+
+ .bt_enviar:hover{
+    background-color: var(--secundaria-darker);
+    color: var(--secundaria-dark);
+ }
+
+
+
+
+/*RESPONSIVOS*/
+@media (max-width: 576px) { 
+
+    #contatos .container-fluid{
+        height: 100%;
+    }
+
+     .telaContato{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .dados, .formulario{
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    .dados p{
+        font-size: 15px;
+    }
+
+    .formulario .msg  {
+        width: 98%;
+    }
+}
+
+    @media (min-width: 576px) and (max-width:768px){ 
+        #contatos .container-fluid{
+            height: 100%;
+        }
+        .telaContato{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .dados, .formulario{
+            width: 100%;
+        }
+        .formulario .msg  {
+            width: 98%;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width:992px) { 
+        #contatos .container-fluid{
+            height: 100%;
+        }
+        .telaContato{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .dados, .formulario{
+            width: 100%;
+        }
+        .formulario .msg  {
+            width: 98%;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width:1200px) { 
+        .formulario .msg  {
+            width: 98%;
+        }
+    }
+ 
+ 
